@@ -9,11 +9,17 @@ Go to the 'download' folder on github and download the latest version (might not
 
 Method 2:
 Download the following files to get the most up to date version:
+
 	-All the maps with numbers (these are the images for the numbers)
+
 	-README.md (not needed)
+
 	-minesweeperv2.py
+
 	-records
+
 	-where.exe
+
 	-newgame.bat
 
 -----
