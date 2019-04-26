@@ -31,6 +31,9 @@ def grid():
     MARGIN = int(entryMargin.get())
     startHelp = entryStartHelp.get()
 
+    buttonRecord.grid_remove()
+    buttonHelp.grid_remove()
+
     global layout
     layout = []
     for row in range(starty):
@@ -592,6 +595,8 @@ def startGame(WIDTH, HEIGHT, MARGIN, count):
                         layout[row][column] += 10
                     if layout[row][column] == 9:
                         print('you ded')
+                        buttonRecord.grid()
+                        buttonHelp.grid()
                         timerStop = 1
                         for row in range(starty):
                             for column in range(startx):
@@ -609,6 +614,8 @@ def startGame(WIDTH, HEIGHT, MARGIN, count):
                                     bombCounter += 1
                         if bombCounter == beginCount and count == 0:
                             timerStop = 1
+                            buttonRecord.grid()
+                            buttonHelp.grid()
                             window = Window()
                             window.title('Home')
                             window.mainloop()

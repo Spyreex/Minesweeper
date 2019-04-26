@@ -1,6 +1,23 @@
 Spyreex' Minesweeper version 1.4
 -----
 
+
+How to download 101
+
+Method 1:
+Go to the 'download' folder on github and download the latest version (might not be completely up to date)
+
+Method 2:
+Download the following files to get the most up to date version:
+	-All the maps with numbers (these are the images for the numbers)
+	-README.md (not needed)
+	-minesweeperv2.py
+	-records
+	-where.exe
+	-newgame.bat
+
+-----
+
 How to install 101
 
 1. Open 'where.exe', this edits 'newgame.bat'.
@@ -88,6 +105,13 @@ Patch notes 1.4
 
 	Removed
 		-Herobrine
+
+-----
+
+Patch notes 1.5
+	
+	Changed
+		-Now removes the help and records button when a new game starts, to prevent the game from freezing when you click the buttons
 
 -----
 
