@@ -34,8 +34,11 @@ Using a grid with a multiplication of 5 will make nunmbers appear. This could si
 -----
 
 Google Minesweeper modes:
+
 Easy		10x8 1/8 (10)
+
 Medium		18x14 1/6 (40)
+
 Hard		24x20 1/5 (99)
 -----
 
