@@ -27,6 +27,7 @@ Download the following files to get the most up to date version:
 How to install 101
 
 1. Open 'where.exe', this edits 'newgame.bat'.
+
 2. Open 'newgame.bat'
 -----
 
@@ -35,11 +36,11 @@ Using a grid with a multiplication of 5 will make nunmbers appear. This could si
 
 Google Minesweeper modes:
 
-Easy		10x8 1/8 (10)
+	Easy		10x8 1/8 (10)
 
-Medium		18x14 1/6 (40)
+	Medium		18x14 1/6 (40)
 
-Hard		24x20 1/5 (99)
+	Hard		24x20 1/5 (99)
 -----
 
 Press the '?' button for help about the options for the field.
